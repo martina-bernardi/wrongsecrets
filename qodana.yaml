@@ -28,4 +28,4 @@ profile:
 #Specify Qodana linter for analysis (Applied in CI/CD pipeline)
 linter: jetbrains/qodana-jvm:2024.1-eap
 
-fixesStrategy: apply
+# fixesStrategy: apply
